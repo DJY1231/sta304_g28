@@ -1,9 +1,9 @@
 #### Preamble ####
 # Purpose: Simulates data to identify trends in the number of marriage licenses 
 # issued before and after Covid.
-# Author: Tina Kim
+# Author: Dong Jun Yoon
 # Date: 19 September 2024
-# Contact: tinak.kim@mail.utoronto.ca
+# Contact: Dong Jun Yoon@mail.utoronto.ca
 # License: University of Toronto
 # Pre-requisites: Know where to find Marriage Licence Statistics data
 
