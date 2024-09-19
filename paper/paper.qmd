@@ -3,7 +3,7 @@ title: "Marriages in Toronto Before and After Covid"
 subtitle: "My subtitle if needed"
 author: 
   - Dong Jun Yoon
-thanks: "Code and data are available at: LINK."
+thanks: "Code and data are available at: https://github.com/DJY1231/sta304_g28.git."
 date: today
 date-format: long
 abstract: "My abstract"
